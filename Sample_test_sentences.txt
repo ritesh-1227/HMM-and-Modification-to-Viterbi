@@ -9,5 +9,3 @@ Show me the cheapest round trips from Dallas to Atlanta
 I would like to see flights from Denver to Philadelphia.
 Show me the price of the flights leaving Atlanta at about 3 in the afternoon and arriving in San Francisco.
 NASA invited social media users to experience the launch of ICESAT-2 Satellite.
-
-
